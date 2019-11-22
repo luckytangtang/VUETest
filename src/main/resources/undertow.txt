@@ -1,0 +1,3 @@
+undertow.devMode=true
+undertow.port=8080
+undertow.ioThreads=10

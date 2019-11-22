@@ -1,0 +1,10 @@
+#db.url=jdbc:mysql://101.201.239.181:3306/knowmap?characterEncoding=utf8
+db.url=jdbc:mysql://localhost:3306/knowmap1?characterEncoding=utf8
+db.username=root
+#db.password=know.map.789
+db.password=root
+#db.class=com.mysql.cj.jdbc.Driver
+fileBaseUrl=http://127.0.0.1:8080/commonFile/
+#fileBaseUrl=http://101.201.239.181:8080/commonFile/
+JwtExpire=1
+SecretLen=10
